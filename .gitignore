@@ -1,0 +1,19 @@
+# Game data is never committed. Fetch it with scripts/fetch_demo.py.
+data/
+build/
+*.o
+*.obj
+*.exe
+*.dll
+*.pdb
+__pycache__/
+.venv/
+venv/
+out/
+tools/toolchain/
+out_*
+docs/img/*_sheet.png
+docs/img/*_anim.gif
+docs/img/tree_*.png
+docs/img/crater_*.png
+docs/img/screen_*.png
